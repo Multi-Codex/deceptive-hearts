@@ -1,9 +1,9 @@
 First of all, thanks to the Doki Doki Modding Club Discord server for giving us the idea of 
-creating a fanfiction like that that we both (iiTzWolfyy and Dyinide) enjoyed doing!
+creating a fanfiction like that that we both (iiTzWolfyy and Codex) enjoyed doing!
 
 Special thanks to Headlocker and CPC for playtesting and Calebthepianist for the anroid port.
 
-Anyway, apart from the DDLC Mod Template v.4.2.3 and DDMod Maker for Dyinide, here are the assets
+Anyway, apart from the DDLC Mod Template v.4.2.3 and DDMod Maker for Codex, here are the assets
 we used:
 
 ######
